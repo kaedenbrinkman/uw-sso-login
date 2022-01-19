@@ -6,7 +6,7 @@ Chrome extension for automatic UW SSO login
 ## Setup
 Install the extension
 
-You may need to edit the extension ID
+You may need to edit the extension ID on [this line](https://github.com/kaedenbrinkman/uw-sso-login/blob/c94e9b42e9d9be08c03a68bc49bbecaebbc54ada/src/autofill.js#L22)
 
 ## Usage
 Click the extension icon
