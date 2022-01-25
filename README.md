@@ -3,6 +3,8 @@ Chrome extension for automatic UW SSO login
 
 > :warning: **Warning**: This extension stores your password unencrypted. It may be possible for people or other extensions to access it. I would recommend reading through the full source code before installing (it isn't that long). Please use with caution.
 
+For some additional features, see [kaedenbrinkman/uw-autofill](https://github.com/kaedenbrinkman/uw-autofill)
+
 ## Setup
 Install the extension
 - Enable developer mode
